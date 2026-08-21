@@ -114,5 +114,4 @@ agent = create_agent(model=model, tools=[add, multiply, divide, square_root])
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
