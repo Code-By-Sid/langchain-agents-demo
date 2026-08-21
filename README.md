@@ -1,5 +1,3 @@
-***
-
 ```markdown
 # 🤖 LangChain Agents with Google Gemini
 
