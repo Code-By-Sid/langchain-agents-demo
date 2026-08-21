@@ -1,5 +1,3 @@
-Here is a complete, professional `README.md` tailored specifically for your project. You can copy and paste this directly into your GitHub repository's `README.md` file.
-
 ***
 
 ```markdown
@@ -121,12 +119,5 @@ agent = create_agent(model=model, tools=[add, multiply, divide, square_root])
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### How to use this:
-1. Go to your GitHub repository.
-2. Click on the `README.md` file.
-3. Click the **pencil icon** (Edit this file) in the top right.
-4. Delete everything currently in the file.
-5. Paste the code block above.
-6. Click **Commit changes...** at the top right. 
 
 *(Don't forget to replace `<YOUR_USERNAME>` with your actual GitHub username!)*
