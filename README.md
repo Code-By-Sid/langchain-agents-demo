@@ -1,4 +1,3 @@
-```markdown
 # 🤖 LangChain Agents with Google Gemini
 
 A simple and practical demonstration of building **tool-calling AI agents** using [LangChain](https://www.langchain.com/) and **Google Gemini**. 
